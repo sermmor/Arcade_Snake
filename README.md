@@ -8,4 +8,4 @@ You can control the snake pushing keyboard arrows up, down, left and right. You 
 ## Screenshot
 ![Capture1](https://raw.githubusercontent.com/sermmor/Arcade_Snake/master/Capture.png)
 
-IMPORTANT NOTE: I finish this project in february 2016, and I won't do an update of this anymore.
+**IMPORTANT NOTE**: I finished this project in february 2016, and I won't do an update of this anymore.
